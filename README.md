@@ -27,4 +27,4 @@ https://drive.google.com/drive/folders/1lvji1kKgQv_u-3GwBAYEgt-KuX0ei6yX?usp=sha
 # Enjoy the AVESA
 
 
-**To learn more about the model, you can check the writing about the AVESA here: **
+**To learn more about the model, you can check the writing about the AVESA here:**
