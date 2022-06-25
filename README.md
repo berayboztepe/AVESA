@@ -1,8 +1,8 @@
 # AVESA (Audio-Visual Event Sentiment Analysis)
 
-- In order to use this GIU first, you need to download this repo using this button.
+- In order to use this GIU first, you need to download this repo using this link.
 
-![](img/downloadbutton.png)
+https://drive.google.com/drive/folders/1lvji1kKgQv_u-3GwBAYEgt-KuX0ei6yX?usp=sharing
 
 - You need to run requierements.py file.
 
