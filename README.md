@@ -4,7 +4,7 @@
 ![](img/downloadbutton.png)
 
 - You need to run requierements.py file.
-![](img/396184259036.png)
+![](img/reqirementsfile.png)
 
 - Run project.py The output will give you a local IP adress. Copy that and paste it into the URL section of your browser.
 ![](img/ip.png)
