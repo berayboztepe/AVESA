@@ -46,7 +46,10 @@ cd path\to\your\folder
 ```
 
 - 2) If you encounter with an error while waiting the output of given video or exit while the model running, in order to run the model again, delete models/video_sum.h5 and delete Frames/name_of_the_video/. Otherwise you migth get these errors:
-**models/video_sum.h5 is running by other process or unable to create a file, the file models/video_sum.h5 already exits: you need to restart to kernel in order to delete this model. After restarting the kernel, you can delete the model and retry to model.**
+```diff
+- models/video_sum.h5 is running by other process or unable to create a file, the file models/video_sum.h5 already exits: you need to restart to kernel in order to delete this model. After restarting the kernel, you can delete the model and retry to model.
+```
+
 
 - 3) Keep in mind, Frames folder has to be empty. There will be folder in it only while the model is running. In order to run the model again or after the model gives an output, **check if the Frames folder is empty or not.**
 
