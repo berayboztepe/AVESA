@@ -12,15 +12,15 @@ https://drive.google.com/drive/folders/1lvji1kKgQv_u-3GwBAYEgt-KuX0ei6yX?usp=sha
 
 <img src="img/ip.png" width="600" height="100">
 
-<img src="img/paste.png" width="600" height="150">
+<img src="img/paste.png" width="600" height="200">
 
 - You can try the model incoming web page on your browser.
 
-![](img/GIU.png)
+<img src="img/GIU.png" width="600" height="250">
 
 - You can also start with the examples that was provided to you
 
-![](img/samples.png)
+<img src="img/samples.png" width="600" height="350">
 
 
 
