@@ -10,9 +10,9 @@ https://drive.google.com/drive/folders/1lvji1kKgQv_u-3GwBAYEgt-KuX0ei6yX?usp=sha
 
 - Run project.py The output will give you a local IP adress. Copy that and paste it into the URL section of your browser. Do not forget to check your current folder inside the editor. **Current folder must be the folder where google drive link downloaded!**
 
-![](img/ip.png)
+<img src="img/ip.png" width="600" height="100">
 
-![](img/paste.png)
+<img src="img/paste.png" width="600" height="150">
 
 - You can try the model incoming web page on your browser.
 
