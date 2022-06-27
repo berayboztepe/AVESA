@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1lvji1kKgQv_u-3GwBAYEgt-KuX0ei6yX?usp=sha
 <img src="img/reqirementsfile.png" width="600" height="50">
 </p>
 
-- Run this code section inside your console: 
+- Run this code section through your ide's console: 
 ```python
 !python -m spacy download en
 ```
