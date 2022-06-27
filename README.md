@@ -20,13 +20,13 @@ https://drive.google.com/drive/folders/1lvji1kKgQv_u-3GwBAYEgt-KuX0ei6yX?usp=sha
 <img src="img/paste.png" width="600" height="200">
 </p>
 
-- You can try the model incoming web page on your browser.
+- You can try the model incoming web page on your browser. Sometimes an error might occur by using not MP4 files. So, we suggest you to use .MP4 files as inputs.
 
 <p align="center">
 <img src="img/GIU.png" width="600" height="250">
 </p>
 
-- You can also start with the examples that was provided to you
+- You can also start with the examples that was provided to you.
 
 <p align="center">
 <img src="img/samples.png" width="600" height="350">
