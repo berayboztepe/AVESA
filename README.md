@@ -10,6 +10,11 @@ https://drive.google.com/drive/folders/1lvji1kKgQv_u-3GwBAYEgt-KuX0ei6yX?usp=sha
 <img src="img/reqirementsfile.png" width="600" height="50">
 </p>
 
+- Run this code section inside your console: 
+```python
+!python -m spacy download en
+```
+
 - Run project.py The output will give you a local IP adress. Copy that and paste it into the URL section of your browser. Do not forget to check your current folder inside the editor. **Current folder must be the folder where google drive link downloaded!**
 
 <p align="center">
