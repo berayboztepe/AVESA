@@ -1,4 +1,4 @@
-# AVESA (Audio-Visual Event Sentiment Analysis)
+<h1 align="center">AVESA (Audio-Visual Event Sentiment Analysis)</h1>
 
 - In order to use this GIU first, you need to download this repo using this link.
 
