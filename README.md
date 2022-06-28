@@ -1,6 +1,6 @@
 <h1 align="center">AVESA (Audio-Visual Event Sentiment Analysis)</h1>
 
-# How to use AVESA:
+# How to use the AVESA:
 
 - In order to use this GIU, first, you need to download this repo using this link.
 
@@ -62,6 +62,11 @@ cd path\to\your\folder
 
 - 4) In order to run the model, video_sum.h5 from the models folder should not exists in the folder. In order to run the model, delete this .h5 file first. This file will only be created while the model running and when the output is given, this .h5 file should be deleted. **Check if this file is deleted or not.**
 
+# Contributors
+- <a href="https://github.com/berayboztepe" target="_blank">Beray Boztepe</a>
+- <a href="https://scholar.google.com.tr/citations?user=NEhs3ttTIzkC&hl=tr" target="_blank">Bahadır Karasulu</a>
+- <a href="https://github.com/bedirhankrkya" target="_blank">Bedirhan Karakaya</a>
+- <a href="https://github.com/ismetnl" target="_blank">İsmet Ünlü</a>
 
 # Some Notes:
 
