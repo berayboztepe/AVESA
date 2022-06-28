@@ -10,7 +10,21 @@
 - The **MIT License** is used for infrastructure part of AVESA
 
 # Backends (Used Frameworks and Tools)
-
+| Used For | Framework & Tool |
+| ------------- | ------------- |
+| Keras  | Deep Learning API  |
+| Tensorflow-io & Opencv-Python | Getting spectrograms and Data Augmentation techniques such as Multiple Masking, CLAHE etc.  |
+| h5py | To Save trained deep learning model |
+| Numpy & Pandas & Matplotlib | General Purpose |
+| Moviepy & Pydub | Applying some operations into frames and videos |
+| NLTK & Zeyrek & Jellyfish | To find Similarity Score |
+| NLTK & Spacy | Applying NLP techniques |
+| Vosk | Get the speech from the video |
+| BERT | Pre-trained models for Sentiment Analysis |
+| Transformers | To Apply BERT models into the text for Sentiment Analysis |
+| Librosa | Applying Gaussian Noise and some data augmentation techniques  |
+| Gradio | To build GUI structure |
+| Torch | Used in backend for BERT, Vosk models |
 
 # How to use the AVESA:
 
