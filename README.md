@@ -10,7 +10,7 @@
 - The **MIT License** is used for infrastructure part of AVESA
 
 # Backends (Used Frameworks and Tools)
-| Used For | Framework & Tool |
+| Framework & Tool | Used For |
 | ------------- | ------------- |
 | Keras  | Deep Learning API  |
 | Tensorflow-io & Opencv-Python | Getting spectrograms and Data Augmentation techniques such as Multiple Masking, CLAHE etc.  |
