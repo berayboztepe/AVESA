@@ -19,12 +19,14 @@
 | Moviepy & Pydub | Applying some operations into frames and videos |
 | NLTK & Zeyrek & Jellyfish | To find Similarity Score |
 | NLTK & Spacy | Applying NLP techniques |
-| Vosk | Get the speech from the video |
+| Vosk | Get the speech to text translation from the video |
 | BERT | Pre-trained models for Sentiment Analysis |
 | Transformers | To Apply BERT models into the text for Sentiment Analysis |
 | Librosa | Applying Gaussian Noise and some data augmentation techniques  |
 | Gradio | To build GUI structure |
 | Torch | Used in backend for BERT, Vosk models |
+
+# Metholodological Flow Diagram of our AVESA system
 
 # How to use the AVESA:
 
@@ -66,7 +68,7 @@ https://drive.google.com/drive/folders/1lvji1kKgQv_u-3GwBAYEgt-KuX0ei6yX?usp=sha
 </p>
 
 
-# Errors you might encounter:
+# Known Issues and Fixing the Possible Errors
 
 - 1) Make sure that your code runs in the same folder where your codes are. To ensure it, you can used this code.
 ```python
@@ -80,9 +82,9 @@ cd path\to\your\folder
 
 - 2) If you encounter with an error while waiting the output of given video or exit while the model running, in order to run the model again, delete models/video_sum.h5 and delete Frames/name_of_the_video/. Otherwise you migth get these errors:
 ```diff
-- models/video_sum.h5 is running by other process or unable to create a file, the file models/video_sum.h5 already exits: you need to restart to kernel in order to delete this model. After restarting the kernel, you can delete the model and retry to model.
+- models/video_sum.h5 is running by other process or unable to create a file, the file models/video_sum.h5 already exits:
 ```
-
+You need to restart to kernel in order to delete this .h5 file. After restarting the kernel, you can delete the .h5 file and retry the model.
 
 - 3) Keep in mind, Frames folder has to be empty. There will be folder in it only while the model is running. In order to run the model again or after the model gives an output, **check if the Frames folder is empty or not.**
 
