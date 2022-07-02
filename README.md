@@ -4,7 +4,7 @@
 - <a href="https://github.com/berayboztepe" target="_blank">Beray Boztepe</a>
 - <a href="https://scholar.google.com.tr/citations?user=NEhs3ttTIzkC&hl=tr" target="_blank">Bahadır Karasulu</a>
 - <a href="https://github.com/bedirhankrkya/AVESA" target="_blank">Bedirhan Karakaya</a>
-- <a href="https://github.com/ismetnl" target="_blank">İsmet Ünlü</a>
+- <a href="https://github.com/ismetnl/AVESA" target="_blank">İsmet Ünlü</a>
 
 # License
 - The **MIT License** is used for infrastructure part of AVESA
