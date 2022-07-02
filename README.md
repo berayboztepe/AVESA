@@ -3,7 +3,7 @@
 # Contributors
 - <a href="https://github.com/berayboztepe" target="_blank">Beray Boztepe</a>
 - <a href="https://scholar.google.com.tr/citations?user=NEhs3ttTIzkC&hl=tr" target="_blank">Bahadır Karasulu</a>
-- <a href="https://github.com/bedirhankrkya" target="_blank">Bedirhan Karakaya</a>
+- <a href="https://github.com/bedirhankrkya/AVESA" target="_blank">Bedirhan Karakaya</a>
 - <a href="https://github.com/ismetnl" target="_blank">İsmet Ünlü</a>
 
 # License
