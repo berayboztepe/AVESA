@@ -23,7 +23,12 @@
 | BERT | Pre-trained models for Sentiment Analysis |
 | Transformers | To Apply BERT models into the text for Sentiment Analysis |
 | Librosa | Applying Gaussian Noise and some data augmentation techniques  |
-| Gradio | To build GUI structure |
+| Gradio | To build GUI structure. @article{abid2019gradio,
+title={Gradio: Hassle-Free Sharing and Testing of ML Models in the Wild},
+author={Abid, Abubakar and Abdalla, Ali and Abid, Ali and Khan, Dawood and Alfozan, Abdulrahman and Zou, James},
+journal={arXiv preprint arXiv:1906.02569},
+year={2019}
+} |
 | Torch | Used in backend for BERT, Vosk models |
 
 # Metholodological Flow Diagram of our AVESA system
