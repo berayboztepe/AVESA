@@ -71,7 +71,8 @@
 </table>
 
 - For Gradio Reference: 
--- [![arXiv](https://img.shields.io/badge/arXiv-1906.02569-b31b1b.svg)](https://arxiv.org/abs/1906.02569)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-1906.02569-b31b1b.svg)](https://arxiv.org/abs/1906.02569)
 
 # Metholodological Flow Diagram of our AVESA system
 
