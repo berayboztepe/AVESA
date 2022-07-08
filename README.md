@@ -62,8 +62,9 @@
   </tr>
   <tr>
     <td>Gradio</td>
-    <td>To build GUI structure. "Apache License 2.0" [![arXiv](https://img.shields.io/badge/arXiv-1906.02569-b31b1b.svg)](https://arxiv.org/abs/1906.02569)</td>
+    <td>To build GUI structure. "Apache License 2.0"</td> 
   </tr>
+  [![arXiv](https://img.shields.io/badge/arXiv-1906.02569-b31b1b.svg)](https://arxiv.org/abs/1906.02569)
   <tr>
     <td>Librosa</td>
     <td>Used in backend for BERT, Vosk models</td>
