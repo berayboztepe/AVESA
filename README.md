@@ -35,7 +35,7 @@
 <p align="center">
 <a href="https://drive.google.com/drive/folders/1lvji1kKgQv_u-3GwBAYEgt-KuX0ei6yX?usp=sharing" target="_blank">Download</a>
 </p>
-  
+ 
 - You need to run requierements.py file. After running the .py file, we recommend you to restart the kernel. Otherwise, you might get some errors about gradio. If there is an error about installing any library, You can use requirements.txt to install all libraries individually.
 
 <p align="center">
