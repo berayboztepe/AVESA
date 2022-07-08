@@ -70,6 +70,8 @@
   </tr>
 </table>
 
+[![arXiv](https://img.shields.io/badge/arXiv-1906.02569-b31b1b.svg)](https://arxiv.org/abs/1906.02569)
+
 # Metholodological Flow Diagram of our AVESA system
 
 # How to use the AVESA:
