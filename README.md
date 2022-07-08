@@ -77,7 +77,7 @@ B. Karakaya, E.B. Boztepe, and B. Karasulu, "Development of a Deep Learning Base
     <td>To build GUI structure. "Apache License 2.0"</td> 
   </tr>
   <tr>
-    <td>Librosa</td>
+    <td>Torch</td>
     <td>Used in backend for BERT, Vosk models</td>
   </tr>
 </table>
