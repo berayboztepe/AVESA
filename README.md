@@ -74,7 +74,9 @@
 
 (Abid, Abubakar and Abdalla, Ali and Abid, Ali and Khan, Dawood and Alfozan, Abdulrahman and Zou, James, (2019), "Gradio: Hassle-Free Sharing and Testing of ML Models in the Wild", ICML HILL 2019, arXiv preprint arXiv:1906.02569.): 
 
+<p align:"center">
 [![arXiv](https://img.shields.io/badge/arXiv-1906.02569-b31b1b.svg)](https://arxiv.org/abs/1906.02569)
+</p>
 
 # Metholodological Flow Diagram of our AVESA system
 
