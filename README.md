@@ -62,7 +62,8 @@
   </tr>
   <tr>
     <td>Gradio</td>
-    <td>To build GUI structure. "Apache License 2.0" [![DOI:10.48550](http://img.shields.io/badge/DOI-10.48550-B31B1B.svg)](https://doi.org/10.48550)</td>
+    <td>To build GUI structure. "Apache License 2.0"
+      <a href = "http://img.shields.io/badge/math.CO-arXiv%3A1408.3644-B31B1B.svg"> </a></td>
   </tr>
   <tr>
     <td>Librosa</td>
