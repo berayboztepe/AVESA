@@ -23,7 +23,7 @@
 | BERT | Pre-trained models for Sentiment Analysis |
 | Transformers | To Apply BERT models into the text for Sentiment Analysis |
 | Librosa | Applying Gaussian Noise and some data augmentation techniques  |
-| Gradio | To build GUI structure. "Apache License 2.0"|
+| Gradio | To build GUI structure. "Apache License 2.0" [![DOI](https://zenodo.org/badge/507322609.svg)](https://zenodo.org/badge/latestdoi/507322609)|
 | Torch | Used in backend for BERT, Vosk models |
 
 # Metholodological Flow Diagram of our AVESA system
