@@ -9,60 +9,66 @@
 # License
 - The **MIT License** is used for infrastructure part of AVESA
 
+# Backends (Used Frameworks and Tools)
+
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Framework & Tool</th>
+    <th>Used For</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Keras</td>
+    <td>Deep Learning API</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Tensorflow-io & Opencv-Python</td>
+    <td>Getting spectrograms and Data Augmentation techniques such as Multiple Masking, CLAHE etc.</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>h5py</td>
+    <td>To Save trained deep learning model</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>Numpy & Pandas & Matplotlib </td>
+    <td>General Purpose</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
+    <td>Moviepy & Pydub</td>
+    <td>Applying some operations into frames and videos</td>
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>NLTK & Zeyrek & Jellyfish</td>
+    <td>To find Similarity Score</td>
+  </tr>
+  <tr>
+    <td>NLTK & Spacy</td>
+    <td>Applying NLP techniques</td>
+  </tr>
+  <tr>
+    <td>Vosk</td>
+    <td>Get the speech to text translation from the video</td>
+  </tr>
+  <tr>
+    <td>BERT</td>
+    <td>Pre-trained models for Sentiment Analysis</td>
+  </tr>
+  <tr>
+    <td>Transformers</td>
+    <td>To Apply BERT models into the text for Sentiment Analysis</td>
+  </tr>
+  <tr>
+    <td>Librosa</td>
+    <td>Applying Gaussian Noise and some data augmentation techniques</td>
+  </tr>
+  <tr>
+    <td>Gradio</td>
+    <td>To build GUI structure. "Apache License 2.0"</td>
+  </tr>
+  <tr>
+    <td>Librosa</td>
+    <td>Used in backend for BERT, Vosk models</td>
   </tr>
 </table>
-
-# Backends (Used Frameworks and Tools)
-| Framework & Tool | Used For |
-| ------------- | ------------- |
-| Keras  | Deep Learning API  |
-| Tensorflow-io & Opencv-Python | Getting spectrograms and Data Augmentation techniques such as Multiple Masking, CLAHE etc.  |
-| h5py | To Save trained deep learning model |
-| Numpy & Pandas & Matplotlib | General Purpose |
-| Moviepy & Pydub | Applying some operations into frames and videos |
-| NLTK & Zeyrek & Jellyfish | To find Similarity Score |
-| NLTK & Spacy | Applying NLP techniques |
-| Vosk | Get the speech to text translation from the video |
-| BERT | Pre-trained models for Sentiment Analysis |
-| Transformers | To Apply BERT models into the text for Sentiment Analysis |
-| Librosa | Applying Gaussian Noise and some data augmentation techniques  |
-| Gradio | To build GUI structure. "Apache License 2.0" |
-| Torch | Used in backend for BERT, Vosk models |
 
 # Metholodological Flow Diagram of our AVESA system
 
