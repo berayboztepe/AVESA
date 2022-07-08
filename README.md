@@ -13,6 +13,14 @@
 # License
 - The **MIT License** is used for infrastructure part of AVESA
 
+# Check Our Previous Work:
+
+B. Karakaya, E.B. Boztepe, and B. Karasulu, "Development of a Deep Learning Based Model for Recognizing the Environmental Sounds in Videos," in The SETSCI Conference Proceedings Book, vol. 5, no. 1, pp. 53-58, 2022.
+
+<p align="center">
+- <a href = "https://www.set-science.com/manage/uploads/ISAS2022_0088/SETSCI_ISAS2022_0088_0011.pdf">Link</a>
+</p>
+
 # Backends (Used Frameworks and Tools)
 
 <table>
