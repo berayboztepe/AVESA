@@ -70,7 +70,7 @@ B. Karakaya, E.B. Boztepe, and B. Karasulu, "Development of a Deep Learning Base
   </tr>
   <tr>
     <td>Librosa</td>
-    <td>Applying Gaussian Noise and some data augmentation techniques</td>
+    <td>Audio Processing, Gaussian Noise and some data augmentation techniques</td>
   </tr>
   <tr>
     <td>Gradio</td>
