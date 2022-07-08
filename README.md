@@ -151,4 +151,4 @@ You need to restart to kernel in order to delete this .h5 file. After restarting
 
 # Enjoy the AVESA
 
-**To learn more about the model, you can check the writing about the AVESA here:**
+**To learn more about the model, you can check the journal article about the AVESA here:**
