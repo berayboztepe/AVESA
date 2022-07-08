@@ -1,0 +1,18 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Abid"
+  given-names: "Abubakar"
+- family-names: "Abdalla"
+  given-names: "Ali"
+- family-names: "Abid"
+  given-names: "Ali"
+- family-names: "Khan"
+  given-names: "Dawood"
+- family-names: "Alfozan"
+  given-names: "Abdulrahman"
+- family-names: "Zou"
+  given-names: "James"
+title: "Gradio: Hassle-Free Sharing and Testing of ML Models in the Wild"
+date-released: 2019-06-06
+journal: "arXiv preprint arXiv:1906.02569"
