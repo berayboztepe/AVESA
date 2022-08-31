@@ -90,6 +90,10 @@ B. Karakaya, E.B. Boztepe, and B. Karasulu, "Development of a Deep Learning Base
 
 # Metholodological Flow Diagram of our AVESA system
 
+<p>
+<img src="img/model_figure.png">
+</p>
+
 # How To Use the AVESA:
 
 - In order to use this GIU, first, you need to download this repo using this link.
